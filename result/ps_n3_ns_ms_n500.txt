@@ -1,0 +1,90 @@
+Result: 0
+population size: 497.29995879250146
+migration rate m12-m21 0.0020786914515731484
+minimum value =  0.037929787193364595
+
+
+Result: 1
+population size: 502.7136360532619
+migration rate m12-m21 0.003585390190160836
+minimum value =  0.06894559123800081
+
+
+Result: 2
+population size: 506.4480121212252
+migration rate m12-m21 0.006290053122206787
+minimum value =  0.0039434089173495425
+
+
+Result: 3
+population size: 504.4832227210341
+migration rate m12-m21 0.008197347081778467
+minimum value =  0.017486838340667
+
+
+Result: 4
+population size: 509.91249991426236
+migration rate m12-m21 0.009263046097895711
+minimum value =  0.044630768525037466
+
+
+Result: 5
+population size: 498.33378745717226
+migration rate m12-m21 0.013501330761008753
+minimum value =  0.045800254715938855
+
+
+Result: 6
+population size: 511.27576431821745
+migration rate m12-m21 0.015574924075535025
+minimum value =  0.018725536271398252
+
+
+Result: 7
+population size: 496.0313887938163
+migration rate m12-m21 0.01505842969277923
+minimum value =  0.023338365769538613
+
+
+Result: 8
+population size: 498.47235059423394
+migration rate m12-m21 0.01681191997691771
+minimum value =  0.07893349441467977
+
+
+Result: 9
+population size: 511.1770127391456
+migration rate m12-m21 0.021035746568895893
+minimum value =  0.06711777236682906
+
+
+Result: 10
+population size: 510.61763436248174
+migration rate m12-m21 0.019207422385472225
+minimum value =  0.0076955286873407955
+
+
+Result: 11
+population size: 504.52959244341866
+migration rate m12-m21 0.024377627949894586
+minimum value =  0.013969039281043056
+
+
+Result: 12
+population size: 489.4940499421041
+migration rate m12-m21 0.027206266255388894
+minimum value =  0.048734605434672784
+
+
+Result: 13
+population size: 514.1695327587187
+migration rate m12-m21 0.027137252583733052
+minimum value =  0.014503643402811356
+
+
+Result: 14
+population size: 512.0830741901069
+migration rate m12-m21 0.033426205547427215
+minimum value =  0.02679577737865135
+
+
