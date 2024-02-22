@@ -1,6 +1,7 @@
 # MatrixIBD
 MatrixIBD software was designed to reconstruct recent multi-population migration history by using identical-by-descent sharing.
-
+## Modified ms
+Modified ms is also called ms-IBD in this paper.
 ## Requirements
 - python 3.7.16
 - nlopt 2.7.1
